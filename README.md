@@ -8,7 +8,7 @@ I'm a younger student of Systems Development Analyst, giving everything i can to
     <a href="https://github.com/iPonzu?tab=repositories">
     <img alt="repo" title="All my repos" src=https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/><a>
     <a href="https://github.com/iPonzu/GuruTest">
-    <img alt="php" width="30px" style="padding-right:10px;" title="My recently PHP source"
+    <img alt="php" width="50px" style="padding-right:10px;" title="My recently PHP source"
     src="https://www.php.net/images/logos/new-php-logo.svg"/>
 </p>
 
