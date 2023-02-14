@@ -1,16 +1,13 @@
-### hi
+## iPonzu
 
-<!--
-**iPonzu/iPonzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Junior Developer (looking for a job)`**
 
-Here are some ideas to get you started:
+I'm a younger student of Systems Development Analyst, giving everything i can to learn and making some repos to show what i learn and what i want to make
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+    <a href="https://github.com/iPonzu?tab=repositories">
+    <img alt="repo" title="All my repos" src=https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/><a>
+    <a href="https://github.com/iPonzu/GuruTest">
+    <img alt="php" title="My recently PHP source"
+    src=/>
+</p>
