@@ -37,3 +37,6 @@ I'm a younger student of Systems Development Analyst, giving everything i can to
 ### 📊 Stats
 [![iPonzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPonzu)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPonzu&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
+
+![ Animação de cobra ](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+</div>
