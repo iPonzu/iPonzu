@@ -31,7 +31,7 @@ I'm a younger student of Systems Development Analyst, giving everything i can to
 ---
 
 ### 📊 Stats
-[![iPonzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPonzu)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPonzu&show_icons=true)](https://github.com/KaduFloresta/github-readme-stats)
+[![iPonzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPonzu&layout=compact&theme=radical&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPonzu&show_icons=true&theme=radical)](https://github.com/KaduFloresta/github-readme-stats)
 
 ![Snake animation](https://github.com/ypek/ypek/blob/output/github-contribution-grid-snake.svg)
