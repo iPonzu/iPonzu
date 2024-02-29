@@ -24,11 +24,12 @@ I'm a younger student of Systems Development Analyst, giving everything i can to
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />                   
+<img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
+
 #
+
 ---
 
 ### 📊 Stats
 [![iPonzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPonzu&layout=compact&theme=radical&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPonzu&show_icons=true&theme=radical)](https://github.com/KaduFloresta/github-readme-stats)
-![Snake animation](https://github.com/{{iPonzu}}/{{iPonzu}}/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
