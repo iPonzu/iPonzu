@@ -5,7 +5,7 @@
 I'm a younger student of Systems Development Analyst, giving everything i can to learn and making some repos to show what i learn and what i want to make, and growing with it 🌱
 - My name isn't `iPonzu`, my real name is `Joao Ignacio` but it's better call me by my nickname
 - 20 years old (and counting)
-- Fullstack Developer w/ nodeJS
+- Fullstack Developer
 - Paying coffee to stay awake coding☕
 
 
