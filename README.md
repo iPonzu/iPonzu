@@ -1,27 +1,56 @@
-## I'm iPonzu 🏄‍♂️
+<h2 align="left">Hi 👋! My name is João Ignacio (iPonzu) and I'm a Fullstack Developer.</h2>
 
-**`Junior Developer (looking for a job)`**
+###
 
-I'm graduated in Systems Development Analyst, giving everything i can to learn and making some repos to show what i learn and what i want to make, and growing with it 🌱
-- My name isn't `iPonzu`, my real name is `Joao Ignacio` but it's better call me by my nickname
-- 21 years old (and counting)
-- Fullstack Developer
-- Paying coffee to stay awake coding☕
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iPonzu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iPonzu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
+###
 
-<p align="left">
-    <a href="https://github.com/iPonzu?tab=repositories">
-    <a href="https://www.linkedin.com/in/joao-ignacio-castro-franco-634873232/">
-    <img alt="linkedIn" width="50px" style="padding-right:10px;" title="profile"
-    src="https://cdn-icons-png.flaticon.com/512/174/174857.png">
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
 
----
-### 🧰 Languages and Tools
+###
 
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-<img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
+<div align="left">
+  <a href="https://www.linkedin.com/in/joaoignaciocastrofranco/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/joao1603">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=joao1603&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+</div>
+
+###
+
+<br clear="both">
+
+###
