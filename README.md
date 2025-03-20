@@ -2,9 +2,9 @@
 
 **`Junior Developer (looking for a job)`**
 
-I'm a younger student of Systems Development Analyst, giving everything i can to learn and making some repos to show what i learn and what i want to make, and growing with it 🌱
+I'm graduated in Systems Development Analyst, giving everything i can to learn and making some repos to show what i learn and what i want to make, and growing with it 🌱
 - My name isn't `iPonzu`, my real name is `Joao Ignacio` but it's better call me by my nickname
-- 20 years old (and counting)
+- 21 years old (and counting)
 - Fullstack Developer
 - Paying coffee to stay awake coding☕
 
@@ -25,11 +25,3 @@ I'm a younger student of Systems Development Analyst, giving everything i can to
 <img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="node" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />    
-
-#
-
----
-
-### 📊 Stats
-[![iPonzu's GitHub stats](https://github-readme-stats.vercel.app/api?username=iPonzu&layout=compact&theme=radical&card_width=350px)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPonzu&show_icons=true&theme=radical)](https://github.com/KaduFloresta/github-readme-stats)
